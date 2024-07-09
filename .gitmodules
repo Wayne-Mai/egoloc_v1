@@ -1,0 +1,7 @@
+[submodule "EgoLoc"]
+  path = EgoLoc
+  url = https://github.com/Wayne-Mai/EgoLoc.git
+
+[submodule "episodic-memory"]
+  path = episodic-memory
+  url = git@github.com:EGO4D/episodic-memory.git
